@@ -2,5 +2,5 @@
 
 <br>
 
-Second Version of my Porfolio<br>
-www.anthonycarreon.com
+
+https://anthonycarreon.github.io/Resume/index.html
