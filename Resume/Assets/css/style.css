@@ -1125,6 +1125,7 @@ textarea.form-control {
   }
   .social-links {
     padding-bottom: 12px;
+    
   }
 }
 @media (max-height: 480px) and (max-width: 3000px) {
