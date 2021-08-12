@@ -3,4 +3,4 @@
 <br>
 
 
-https://anthonycarreon.github.io/Resume/index.html
+https://anthonycarreon.github.io/Resume
